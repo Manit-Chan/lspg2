@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/Macx/react-native-loading/example/node_modules/react-native/React/Modules/RCTDevMenu.m \
+  /Users/Macx/react-native-loading/example/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/Macx/react-native-loading/example/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Macx/react-native-loading/example/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Macx/react-native-loading/example/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Macx/react-native-loading/example/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Macx/react-native-loading/example/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Macx/react-native-loading/example/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Macx/react-native-loading/example/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Macx/react-native-loading/example/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Macx/react-native-loading/example/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/Macx/react-native-loading/example/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/Macx/react-native-loading/example/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/Macx/react-native-loading/example/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Macx/react-native-loading/example/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/Macx/react-native-loading/example/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/Macx/react-native-loading/example/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/Macx/react-native-loading/example/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/Macx/react-native-loading/example/node_modules/react-native/React/Base/RCTWebSocketProxy.h \
+  /Users/Macx/react-native-loading/example/node_modules/react-native/React/Base/RCTWebSocketProxyDelegate.h
